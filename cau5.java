@@ -14,7 +14,7 @@ public class cau5
       for (int i = 0; i < n; i++)
       {
          System.out.println("Nhập vào số thực:");
-         soNguyen[i] = sc.nextInt();
+         soNguyen[i] = sc.nextFloat();
       }
 
       for (int i = 0; i < n; i++)
